@@ -1,0 +1,10 @@
+{
+  "name": "Cave Story: Pulse",
+  "description": "Pulse From Cave Story. Song made by Studio Pixel",
+  "author": "SonYuku966",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
